@@ -7,3 +7,12 @@ body {
 .white-text, a {
   color: white;
 }
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  }
+
+.bckg-photo {
+  background-image: url("../Images/building.png");
+}
