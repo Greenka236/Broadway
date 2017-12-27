@@ -1,0 +1,9 @@
+body {
+  text-align: center;
+  font-family: Helvetica, sans-serif;
+  color: black;
+}
+
+.white-text, a {
+  color: white;
+}
