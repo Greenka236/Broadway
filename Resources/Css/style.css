@@ -16,3 +16,30 @@ h1 {
 .bckg-photo {
   background-image: url("../Images/building.png");
 }
+
+nav {
+  font-size: 18px;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+  }
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p {
+  font-size: 14px;
+}
+
+.smaller {
+  font-size: 11px;
+  }
+
+.footer {
+  background-color: dimgray;
+  text-align: left;
+}
